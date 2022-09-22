@@ -10,6 +10,8 @@ function votar(idade){
 
 }
 votar(18)
+votar(16)
+votar(14)
 
 
 
